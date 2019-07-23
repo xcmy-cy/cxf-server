@@ -9,6 +9,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 //这是一个服务接口的实现
+//这里可以指定但是不知道为什么会影响服务端的调用 所以使用了默认的命名空间
 @WebService
 //需要被发现
 @Component
