@@ -1,0 +1,3 @@
+# cxf-server
+SpringBoot+CXF服务端
+在pom引入依赖的时候一定要注意springboot和cxf的版本号,在maven仓库上找到cxf-spring-boot-starter-jaxws对应的Compile Dependencies版本
