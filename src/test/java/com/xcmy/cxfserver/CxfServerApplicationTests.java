@@ -1,4 +1,4 @@
-package com.example.cxfserver;
+package com.xcmy.cxfserver;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

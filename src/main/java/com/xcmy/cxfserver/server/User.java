@@ -1,4 +1,4 @@
-package com.example.cxfserver.server;
+package com.xcmy.cxfserver.server;
 
 import java.io.Serializable;
 

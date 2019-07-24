@@ -1,4 +1,4 @@
-package com.example.cxfserver.server;
+package com.xcmy.cxfserver.server;
 
 import org.apache.cxf.Bus;
 import org.apache.cxf.jaxws.EndpointImpl;

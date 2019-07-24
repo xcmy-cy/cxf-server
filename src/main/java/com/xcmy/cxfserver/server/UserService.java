@@ -1,4 +1,4 @@
-package com.example.cxfserver.server;
+package com.xcmy.cxfserver.server;
 
 import javax.jws.WebMethod;
 import javax.jws.WebParam;

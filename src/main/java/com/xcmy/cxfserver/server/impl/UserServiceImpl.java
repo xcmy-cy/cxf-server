@@ -1,7 +1,7 @@
-package com.example.cxfserver.server.impl;
+package com.xcmy.cxfserver.server.impl;
 
-import com.example.cxfserver.server.User;
-import com.example.cxfserver.server.UserService;
+import com.xcmy.cxfserver.server.User;
+import com.xcmy.cxfserver.server.UserService;
 import org.springframework.stereotype.Component;
 
 import javax.jws.WebService;
